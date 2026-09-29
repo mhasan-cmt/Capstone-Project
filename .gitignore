@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.keras
+*.h5
+*.npy
+/kaggle/

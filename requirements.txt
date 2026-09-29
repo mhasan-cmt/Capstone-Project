@@ -1,0 +1,13 @@
+# Tested on Kaggle (Python 3.12, TensorFlow 2.20, NVIDIA P100 / 2x T4)
+tensorflow==2.20.*
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+Pillow
+matplotlib
+seaborn
+keras-tuner      # notebook 04 only
+lime             # notebook 06 only
+scikit-image     # notebook 06 only
